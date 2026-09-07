@@ -151,19 +151,9 @@ Para quem usa, ela não precisa ser.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BalaMCZK&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" />
+### Construindo, evoluindo e colocando ideias em produção.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalaMCZK&layout=compact&hide_border=true&theme=github_dark" />
-
-</div>
-
----
-
-## Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BalaMCZK&theme=github-compact&hide_border=true" width="100%" />
+Meus principais projetos atualmente estão concentrados no ecossistema da **BalaCloud** e no desenvolvimento do **RodaFlux**.
 
 </div>
 
